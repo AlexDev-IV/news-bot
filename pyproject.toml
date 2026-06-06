@@ -3,7 +3,7 @@ name = "scrapingnews"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Alex",email = ""}
+    {name = "Sensei8787"}
 ]
 requires-python = ">=3.10,<3.15"
 dependencies = [
