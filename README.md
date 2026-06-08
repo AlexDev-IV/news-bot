@@ -22,5 +22,5 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone [https://github.com/Sensei8787/news-bot.git](https://github.com/Sensei8787/news-bot.git)
+git clone [https://github.com/AlexDev-IV/news-bot.git](https://github.com/Sensei8787/news-bot.git)
 cd news-bot
